@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+.login-box {
+  width: 300px;
+  margin: auto;
+}
+input,
+button {
+  margin: 5px 0;
+  padding: 8px;
+  width: 100%;
+}
+ul li {
+  margin: 10px 0;
+}
