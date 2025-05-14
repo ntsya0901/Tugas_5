@@ -6,13 +6,13 @@ Angela natasya (235314031)
 ## Screenshots
 
 Berikut adalah beberapa Screenshot dari aplikasi:
-![Screenshot 1](platform/login.png)
-![Screenshot 2](platform/pass.png)
-![Screenshot 3](platform/1.png)
-![Screenshot 4](platform/2.png)
-![Screenshot 5](platform/selesai.png)
-![Screenshot 6](platform/database.png)
-![Screenshot 7](platform/tabel.png)
+![Screenshot 1](platfrom/login.png)
+![Screenshot 2](platfrom/pass.png)
+![Screenshot 3](platfrom/1.png)
+![Screenshot 4](platfrom/2.png)
+![Screenshot 5](platfrom/selesai.png)
+![Screenshot 6](platfrom/database.png)
+![Screenshot 7](platfrom/tabel.png)
 
 ---
 
