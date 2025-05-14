@@ -3,14 +3,9 @@
 ## Deskripsi
 Angela natasya (235314031)
 
----
-
-```
-
 ## Screenshots
 
 Berikut adalah beberapa Screenshot dari aplikasi:
-
 ![Screenshot 1](platform/login.png)
 ![Screenshot 2](platform/pass.png)
 ![Screenshot 3](platform/1.png)
@@ -19,10 +14,11 @@ Berikut adalah beberapa Screenshot dari aplikasi:
 ![Screenshot 6](platform/database.png)
 ![Screenshot 7](platform/tabel.png)
 
+---
+
 ## Skema Database
 
 File `platform.sql` di folder `Db_schema/` berisi dump database `Platform`, terdiri dari dua tabel:
-
 ### Tabel `users`
 - `id` INT PRIMARY KEY AUTO_INCREMENT
 - `username` VARCHAR(50)
@@ -33,7 +29,6 @@ File `platform.sql` di folder `Db_schema/` berisi dump database `Platform`, terd
 - `task` VARCHAR(255)
 - `status` enum(30) DEFAULT 'pending'
 - `username` VARCHAR
-
 
 ## Cara Menjalankan
 
